@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/cmdexcel.xlsx</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
